@@ -4,6 +4,7 @@
   "description": "",
   "keywords": [],
   "main": "src/index.tsx",
+  "license": "UNLICENSED",
   "dependencies": {
     "react": "16.9.0",
     "react-dom": "16.9.0",
