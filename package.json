@@ -1,7 +1,7 @@
 {
   "name": "archa-sandbox",
   "version": "1.0.0",
-  "description": "",
+  "description": "template to use for validating new packages and ideas",
   "keywords": [],
   "main": "src/index.tsx",
   "dependencies": {
